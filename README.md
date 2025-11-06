@@ -1,4 +1,4 @@
-🎤 Speech Emotion Recognition System
+**🎤 Speech Emotion Recognition System**
 Deep learning system that classifies emotions from speech audio with 83.7% accuracy using PyTorch and FastAPI.
 
 🎯 Project Overview
