@@ -1,5 +1,6 @@
 **🎤 Speech Emotion Recognition System**
 
+
 Deep learning system that classifies emotions from speech audio with 83.7% accuracy using PyTorch and FastAPI.
 
 🎯 Project Overview
@@ -220,16 +221,6 @@ Livingstone SR, Russo FA (2018)
 The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS): 
 A dynamic, multimodal set of facial and vocal expressions in North American English. 
 PLoS ONE 13(5): e0196391.
-🤝 Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-👤 Author
-Your Name
-
-GitHub: @your-username
-LinkedIn: Your Name
-Portfolio: yourwebsite.com
 
 🙏 Acknowledgments
 
@@ -237,11 +228,6 @@ RAVDESS dataset creators for providing high-quality emotional speech data
 PyTorch and FastAPI communities for excellent documentation
 librosa maintainers for powerful audio processing tools
 
-📞 Contact
-For questions or collaboration opportunities, reach out via:
-
-Email: your.email@example.com
-LinkedIn: Your Profile
 
 
 ⭐ If you find this project helpful, please give it a star!
